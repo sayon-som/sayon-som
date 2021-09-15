@@ -1,10 +1,6 @@
-<a href="#"><img width="50%" height="auto" src="./profile_pic.jpg" height="175px" style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-  "/></a>
 
-<h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sayon</h1>
+
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sayon</h1>
 <h3 align="center">A sophomore with great interest in Software Tech and Finance.</h3>
 
 
