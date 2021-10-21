@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sayon</h1>
-<h3 align="center">A sophomore with great interest in Software Tech and Finance.</h3>
+<h3 align="center">A Junior Year student with great interest in Software Tech and Finance.</h3>
 
 
 ## 🙋‍♂️ About Me
