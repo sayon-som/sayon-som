@@ -1,7 +1,6 @@
 
 
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/jTNG3RF6EwbkpD4LZx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx">via GIPHY</a></p>
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47dt8hylq74g6lp2x7q6ldquiiuzif6rj8g9yk8ibx&rid=giphy.gif&ct=g))
 <h2 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Sayon</h2>
 <h3 align="center">A Junior Year student with great interest in Software Tech and Finance.</h3>
 
