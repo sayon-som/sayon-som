@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on MERN Stack 
 
-- 🌱 I’m currently learning ML and have great interest in Android development , Block chain and Cloud Computing.
+- 🌱 I’m currently learning Flutter.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
