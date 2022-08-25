@@ -74,7 +74,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sayon-som-a3a2b91ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sayon_som?lang=de"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/SomSayon?t=FK23uE3_ZLEXY55214IT8w&s=08"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
 </p>
