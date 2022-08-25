@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47dt8hylq74g6lp2x7q6ldquiiuzif6rj8g9yk8ibx&rid=giphy.gif&ct=g"/>
 </p>
-<h2 align="center">Hello! <img src="https://tenor.com/view/wave-hand-sup-hi-gif-12359359" width="5px">, I'm Sayon</h2>
+<h2 align="center">Hello! <div class="tenor-gif-embed" data-postid="12359359" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/wave-hand-sup-hi-gif-12359359">Wave Hand GIF</a>from <a href="https://tenor.com/search/wave-gifs">Wave GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>, I'm Sayon</h2>
 <h3 align="center">A Junior Year student with great interest in Software Tech and Finance.</h3>
 
 
