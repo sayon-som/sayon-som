@@ -40,7 +40,8 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
    
   
-    <img src="https://img.icons8.com/color/48/000000/azure-1.png"/><img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
+    <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
+   <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
     
 </p>
 
