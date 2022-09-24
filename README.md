@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on MERN Stack 
 
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning NODEJS DEVELOPMENT.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[MY GITHUB PROJECTS](https://github.com/stars/sayon-som/lists/projects)**
+- 👨‍💻 All of my projects are available at **[MY PROJECTS](https://github.com/stars/sayon-som/lists/projects)**
 
 - 📫 How to reach me **sayonsom11b@gmail.com**
 
