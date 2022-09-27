@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47dt8hylq74g6lp2x7q6ldquiiuzif6rj8g9yk8ibx&rid=giphy.gif&ct=g"/>
+<img src="https://user-images.githubusercontent.com/65534202/192628514-7e01e3f7-64d1-45c4-92af-943e60d4a882.png"/>
 </p>
 <h2 align="center">Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30px"/>, I'm Sayon</h2>
 <h3 align="center">A Senior Year student with great interest in Software Tech and Finance.</h3>
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning NODEJS DEVELOPMENT.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource ** and ** Web Dev projects**
 
 - 👨‍💻 All of my projects are available at **[MY PROJECTS](https://github.com/stars/sayon-som/lists/projects)**
 
