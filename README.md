@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65534202/192628514-7e01e3f7-64d1-45c4-92af-943e60d4a882.png"/>
+<img src="https://user-images.githubusercontent.com/65534202/192628882-dbcc49d2-6bc1-4244-83bf-ea5b72dcd638.png"/>
 </p>
 <h2 align="center">Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30px"/>, I'm Sayon</h2>
 <h3 align="center">A Senior Year student with great interest in Software Tech and Finance.</h3>
