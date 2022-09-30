@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on MERN Stack 
+- 🔭 I’m currently working on MERN .
 
 - 🌱 I’m currently learning NODEJS DEVELOPMENT.
 
