@@ -6,7 +6,12 @@
 </p>
 <h2 align="center">Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30px"/>, I'm Sayon</h2>
 <h3 align="center">A Senior Year student with great interest in Software Tech and Finance.</h3>
+<br/>
+<h3 align="center"> <-- My Badges --> </h3>
 
+
+
+[![@sayon's Holopin board](https://holopin.io/api/user/board?user=sayon)](https://holopin.io/@sayon)
 
 ## 🙋‍♂️ About Me
 
