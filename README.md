@@ -10,8 +10,8 @@
 <h3 align="center"> <-- My Badges --> </h3>
 
 
+[![@sayon's Holopin board](https://holopin.me/sayon)](https://holopin.io/@sayon)
 
-[![@sayon's Holopin board](https://holopin.io/api/user/board?user=sayon)](https://holopin.io/@sayon)
 
 ## 🙋‍♂️ About Me
 
