@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on MERN .
 
-- 🌱 I’m currently learning BLOCKCHAIN DEVELOPMENT.
+- 🌱 I’m currently learning React-Native.
 
 - 👯 I’m looking to collaborate on **OpenSource ** and ** Web Dev projects**
 
