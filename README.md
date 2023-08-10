@@ -19,9 +19,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on MERN .
+- 🔭 I’m currently working on the Java backend.
 
-- 🌱 I’m currently learning React-Native.
+- 🌱 I’m currently learning Flutter.
 
 - 👯 I’m looking to collaborate on **OpenSource ** and ** Web Dev projects**
 
@@ -74,7 +74,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/sayon-som/github-readme-activity-graph"><img alt="sayon-som Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sayon-som&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Sayon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SayonSom&theme=react-dark)](https://github.com/SayonSom/github-readme-activity-graph)
 
 <br/>
 <br/>
