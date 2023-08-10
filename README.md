@@ -74,7 +74,7 @@
 <br/>
 <br/>
 
-[![Sayon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SayonSom&theme=react-dark)](https://github.com/SayonSom/github-readme-activity-graph)
+[![Sayon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayon-som&theme=react-dark)](https://github.com/sayon-som/github-readme-activity-graph)
 
 <br/>
 <br/>
