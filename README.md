@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/65534202/192628882-dbcc49d2-6bc1-4244-83bf-ea5b72dcd638.png"/>
 </p>
 <h2 align="center">Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30px"/>, I'm Sayon</h2>
-<h3 align="center">A Senior Year student with great interest in Software Tech and Finance.</h3>
+<h3 align="center">Currently working as a Software Developer at Deloitte USI.</h3>
 <br/>
 <h3 align="center"> <-- My Badges --> </h3>
 
@@ -19,11 +19,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on the Java backend.
+- 🔭 I’m currently working on the Salesforce Development.
 
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Android Development.
 
-- 👯 I’m looking to collaborate on **OpenSource ** and ** Web Dev projects**
+- 👯 I’m looking to collaborate on **OpenSource ** and ** Salesforce Development Projects**
 
 - 👨‍💻 All of my projects are available at **[MY PROJECTS](https://github.com/stars/sayon-som/lists/projects)**
 
